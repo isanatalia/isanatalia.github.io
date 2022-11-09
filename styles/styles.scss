@@ -98,7 +98,7 @@ section{
         background-color: var(--color-secondary) !important;
         transition: all .4s ease-in-out;    
         i{
-            color: var(--color-white);
+            color: var(--color-white) !important;
         }    
     }
     .control{
