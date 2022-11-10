@@ -13,6 +13,14 @@ function PageTransitions(){
             this.className += 'active-btn';            
         } )
     }
+
+    // Sections Active class
+    allSections.addEventListener('click', (e) =>{
+        console.log(e.target);
+
+
+    })
+
 }
 
 PageTransitions();
