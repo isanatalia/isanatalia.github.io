@@ -86,6 +86,10 @@ section {
   transform: translateY(0) scale(1);
 }
 
+.active {
+  display: block;
+}
+
 .controlls {
   position: fixed;
   z-index: 10;
