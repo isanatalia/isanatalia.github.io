@@ -88,6 +88,8 @@ section {
 
 .active {
   display: block;
+  -webkit-animation: scaleAnim;
+          animation: scaleAnim;
 }
 
 .controlls {
